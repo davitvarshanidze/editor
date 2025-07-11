@@ -1,5 +1,5 @@
 .vscode
-.Editor.dSYM
-.Editor
+Editor.dSYM
+Editor
 Makefile
-.Main.dSYM
+Main.dSYM
